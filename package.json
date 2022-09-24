@@ -4,5 +4,8 @@
   "description": "mycontacts",
   "main": "src/index.js",
   "author": "Amon Lima <amonn3>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
