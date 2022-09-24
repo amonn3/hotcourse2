@@ -1,0 +1,8 @@
+{
+  "name": "modulo2",
+  "version": "1.0.0",
+  "description": "mycontacts",
+  "main": "src/index.js",
+  "author": "Amon Lima <amonn3>",
+  "license": "MIT"
+}
